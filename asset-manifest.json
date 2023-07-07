@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/techwamanw/static/css/main.2f632f2f.css",
+    "main.js": "/techwamanw/static/js/main.360797ad.js",
+    "static/js/787.de4eea0c.chunk.js": "/techwamanw/static/js/787.de4eea0c.chunk.js",
+    "static/media/bmc-logo-no-background.png": "/techwamanw/static/media/bmc-logo-no-background.f7706b66fa26661302f5.png",
+    "static/media/github.png": "/techwamanw/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/logo.png": "/techwamanw/static/media/logo.92e74262381de7d2b77e.png",
+    "static/media/undraw_open_source.svg": "/techwamanw/static/media/undraw_open_source.8e119793fd3b445075619f0f116edca0.svg",
+    "static/media/heart.png": "/techwamanw/static/media/heart.02788419053613081112.png",
+    "static/media/undraw_choice.svg": "/techwamanw/static/media/undraw_choice.8581d9e96bedd271b3b2ae93c8176d7c.svg",
+    "index.html": "/techwamanw/index.html",
+    "main.2f632f2f.css.map": "/techwamanw/static/css/main.2f632f2f.css.map",
+    "main.360797ad.js.map": "/techwamanw/static/js/main.360797ad.js.map",
+    "787.de4eea0c.chunk.js.map": "/techwamanw/static/js/787.de4eea0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f632f2f.css",
+    "static/js/main.360797ad.js"
+  ]
+}
